@@ -1,0 +1,383 @@
+User User1 accessed the page at 22/02/2018 18:27. 
+User Admin accessed the page at 22/02/2018 18:34. 
+User Admin attempted to access the page at 22/02/2018 18:38. 
+User Admin attempted to access the page at 22/02/2018 18:38. 
+User Admin accessed the page at 22/02/2018 18:39. 
+User Admin attempted to access the page at 22/02/2018 18:39. 
+User User1 accessed the page at: 22/02/2018 18:42. 
+User Admin accessed the page at: 22/02/2018 18:42. 
+User User1 accessed the page at: 22/02/2018 18:43. 
+User User1 accessed the page at: 22/02/2018 18:44. 
+User  altered the contents of the main page at: 22/02/2018 18:44. 
+User User1 accessed the page at: 22/02/2018 18:45. 
+User  altered the contents of the main page at: 22/02/2018 18:46. 
+User User1 accessed the page at: 22/02/2018 18:47. 
+User  altered the contents of the main page at: 22/02/2018 18:47. 
+User  altered the contents of the main page at: 22/02/2018 18:47. 
+User Admin attempted to access the page at: 22/02/2018 18:48. 
+User Admin attempted to access the page at: 22/02/2018 18:48. 
+User Admin accessed the page at: 22/02/2018 18:50. 
+User  altered the contents of the main page at: 22/02/2018 18:50. 
+User  altered the contents of the main page at: 22/02/2018 18:50. 
+User Admin accessed the page at: 22/02/2018 18:52. 
+User Admin accessed the page at: 22/02/2018 18:52. 
+User  altered the contents of the main page at: 22/02/2018 18:52. 
+User Admin accessed the page at: 22/02/2018 18:55. 
+User Admin accessed the page at: 22/02/2018 18:56. 
+User Admin altered the contents of the main page at: 22/02/2018 18:56. 
+User Admin accessed the page at: 22/02/2018 18:59. 
+User Admin accessed the page at: 22/02/2018 19:03. 
+User Admin altered the contents of the main page at: 22/02/2018 19:03. The new contents are: 		 		 		 		 		 		 		 		 		!! 		
+	Hello, world!!!!!!!!!!111
+
+	
+
+	
+
+	
+
+	asdasdasd
+asdad123123
+	
+asasdasd
+	
+
+	
+
+	
+
+	 
+ 
+User Admin accessed the page at 22/02/2018 19:29
+User User1 accessed the page at 22/02/2018 19:40
+User Admin attempted to access the page at: 22/02/2018 19:51.
+User User1 accessed the page at 22/02/2018 19:57
+User User1 altered the contents of the main page at: 22/02/2018 19:58. The new contents are: Hello
+
+	
+
+	
+
+	
+
+	
+User Admin accessed the page at 22/02/2018 20:09
+User User1 accessed the page at 22/02/2018 20:09
+User Admin accessed the page at 22/02/2018 20:11
+User User1 accessed the page at 22/02/2018 20:11
+User Admin accessed the page at 22/02/2018 20:13
+User Admin accessed the page at 22/02/2018 20:15
+User Admin accessed the page at 22/02/2018 20:16
+User Admin accessed the page at 22/02/2018 20:40
+User Admin accessed the page at 22/02/2018 20:40
+User User1 accessed the page at 22/02/2018 20:41
+User Admin accessed the page at 22/02/2018 21:21
+User Admin accessed the page at 22/02/2018 21:23
+User Admin accessed the page at 22/02/2018 21:24
+User Admin accessed the page at 22/02/2018 21:25
+User Admin accessed the page at 22/02/2018 21:44
+User Admin accessed the page at 22/02/2018 21:45
+User Admin accessed the page at 22/02/2018 21:46
+User Admin accessed the page at 22/02/2018 21:52
+User Admin accessed the page at 22/02/2018 21:53
+User Admin accessed the page at 22/02/2018 21:54
+User Admin accessed the page at 22/02/2018 21:56
+User Admin accessed the page at 22/02/2018 21:58
+User Admin altered the contents of the main page at: 22/02/2018 21:58. The new contents are: 		 
+  <!--<h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>-->
+
+
+
+	
+User Admin accessed the page at 22/02/2018 22:00
+User Admin altered the contents of the main page at: 22/02/2018 22:00. The new contents are: 1
+User Admin altered the contents of the main page at: 22/02/2018 22:00. The new contents are: 1234
+User Admin altered the contents of the main page at: 22/02/2018 22:00. The new contents are: 		 
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+
+	
+User Admin accessed the page at 22/02/2018 22:06
+User Admin accessed the page at 22/02/2018 22:11
+User Admin altered the contents of the main page at: 22/02/2018 22:12. The new contents are: Admin is king
+User Admin altered the contents of the main page at: 22/02/2018 22:12. The new contents are: 		 Admin is king
+
+	
+User Admin altered the contents of the main page at: 22/02/2018 22:13. The new contents are: Fake news!
+User Admin altered the contents of the main page at: 22/02/2018 22:13. The new contents are: 		 Fake news!
+
+	
+User Admin accessed the page at 22/02/2018 22:18
+User Admin altered the contents of the main page at: 22/02/2018 22:18. The new contents are: 		 
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+
+	
+User Admin altered the contents of the main page at: 22/02/2018 22:19. The new contents are: Alternative facts
+User Admin altered the contents of the main page at: 22/02/2018 22:20. The new contents are: My button is bigger!
+User Admin accessed the page at 22/02/2018 22:26
+User Admin altered the contents of the main page at: 22/02/2018 22:26. The new contents are: You have small hands.
+User Admin accessed the page at 22/02/2018 22:33
+User Admin altered the contents of the main page at: 22/02/2018 22:37. The new contents are: 		 
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+
+	
+User Admin accessed the page at 22/02/2018 22:38
+User Admin accessed the page at 22/02/2018 22:39
+User Admin altered the contents of the main page at: 22/02/2018 22:40. The new contents are: Jail her
+User Admin altered the contents of the main page at: 22/02/2018 22:41. The new contents are: 
+User Admin altered the contents of the main page at: 22/02/2018 22:41. The new contents are: I've got a great brain
+User Admin altered the contents of the main page at: 22/02/2018 22:41. The new contents are: 
+User Admin accessed the page at 22/02/2018 22:43
+User Admin altered the contents of the main page at: 22/02/2018 22:43. The new contents are: 
+User Admin accessed the page at 22/02/2018 22:44
+User Admin altered the contents of the main page at: 22/02/2018 22:44. The new contents are: 		 
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+
+	
+User Admin accessed the page at 22/02/2018 22:45
+User Admin altered the contents of the main page at: 22/02/2018 22:46. The new contents are: Obama is not an American.
+User Admin altered the contents of the main page at: 22/02/2018 22:46. The new contents are:   Jail her
+User User1 accessed the page at 22/02/2018 22:58
+User User1 altered the contents of the main page at: 22/02/2018 22:59. The new contents are: I like Hillary.
+User Admin accessed the page at 22/02/2018 22:59
+User Admin accessed the page at 22/02/2018 23:01
+User User1 accessed the page at 22/02/2018 23:04
+User User1 altered the contents of the main page at: 22/02/2018 23:05. The new contents are: 		 Hillary won!
+
+	
+User Admin accessed the page at 22/02/2018 23:05
+User User1 accessed the page at 22/02/2018 23:06
+User User1 altered the contents of the main page at: 22/02/2018 23:06. The new contents are: She got more votes. It doesn't matter that she likes bombing countries.
+User Admin accessed the page at 22/02/2018 23:07
+User Admin altered the contents of the main page at: 22/02/2018 23:07. The new contents are:  		 Hillary won!
+
+	
+User Admin accessed the page at 22/02/2018 23:08
+User Admin altered the contents of the main page at: 22/02/2018 23:08. The new contents are:   		 Hillary won!
+
+	
+User Admin accessed the page at 22/02/2018 23:11
+User Admin accessed the page at 22/02/2018 23:12
+User Admin altered the contents of the main page at: 22/02/2018 23:13. The new contents are: Build the wall
+User Admin altered the contents of the main page at: 22/02/2018 23:15. The new contents are: I don't want to pay taxes.
+	
+User Admin altered the contents of the main page at: 22/02/2018 23:16. The new contents are:   Build the wall
+User User1 accessed the page at 22/02/2018 23:17
+User User1 altered the contents of the main page at: 22/02/2018 23:18. The new contents are: Hillary is perfect.
+User Admin accessed the page at 22/02/2018 23:18
+User Admin altered the contents of the main page at: 22/02/2018 23:18. The new contents are:  Build the wall
+User Ivanka accessed the page at 22/02/2018 23:23
+User Admin accessed the page at 22/02/2018 23:23
+User Ivanka accessed the page at 22/02/2018 23:35
+User  logged out at: 22/02/2018 23:35
+User Ivanka accessed the page at 22/02/2018 23:37
+User Ivanka logged out at: 22/02/2018 23:37
+User Admin accessed the page at 23/02/2018 00:24
+User Admin accessed the page at 23/02/2018 00:36
+User Ivanka accessed the page at 23/02/2018 00:49
+User Ivanka logged out at: 23/02/2018 00:49
+User Admin accessed the page at 23/02/2018 00:49
+User Admin logged out at: 23/02/2018 00:50
+User Ivanka accessed the page at 23/02/2018 00:51
+User Admin accessed the page at 23/02/2018 00:56
+User Admin accessed the page at 23/02/2018 01:08
+User Admin accessed the page at 23/02/2018 01:11
+User Admin accessed the page at 23/02/2018 01:13
+User Admin accessed the page at 23/02/2018 01:14
+User Admin accessed the page at 23/02/2018 01:16
+User Admin accessed the page at 23/02/2018 01:17
+User Admin accessed the page at 23/02/2018 01:20
+User Admin accessed the page at 23/02/2018 01:24
+User Admin attempted to access the page at: 23/02/2018 01:26.
+User Admin accessed the page at 23/02/2018 01:27
+User Admin accessed the page at 23/02/2018 01:27
+User Admin accessed the page at 23/02/2018 01:29
+User Admin accessed the page at 23/02/2018 01:30
+User Admin accessed the page at 23/02/2018 01:35
+User Admin accessed the page at 23/02/2018 01:42
+User User1 accessed the page at 23/02/2018 01:43
+User User1 accessed the page at 23/02/2018 01:44
+User User1 logged out at: 23/02/2018 01:45
+User Admin accessed the page at 23/02/2018 01:45
+User User1 accessed the page at 23/02/2018 01:46
+User User1 logged out at: 23/02/2018 01:46
+User Admin accessed the page at 23/02/2018 01:46
+User Admin accessed the page at 23/02/2018 01:48
+User Admin accessed the page at 23/02/2018 01:51
+User Admin accessed the page at 23/02/2018 01:53
+User Admin accessed the page at 23/02/2018 02:09
+User Admin accessed the page at 23/02/2018 02:10
+User Admin accessed the page at 23/02/2018 02:14
+User Admin accessed the page at 23/02/2018 02:18
+User Admin accessed the page at 23/02/2018 02:19
+User Admin accessed the page at 23/02/2018 02:20
+User Admin accessed the page at 23/02/2018 02:21
+User Admin accessed the page at 23/02/2018 02:23
+User Admin accessed the page at 23/02/2018 02:24
+User Admin accessed the page at 23/02/2018 03:00
+User Admin accessed the page at 23/02/2018 04:02
+User Admin accessed the page at 23/02/2018 04:05
+User Admin accessed the page at 23/02/2018 04:05
+User Admin accessed the page at 23/02/2018 04:06
+User Admin accessed the page at 23/02/2018 04:12
+User Admin accessed the page at 23/02/2018 04:13
+User Admin accessed the page at 23/02/2018 04:15
+User Admin accessed the page at 23/02/2018 04:17
+User Admin accessed the page at 23/02/2018 04:24
+User Admin accessed the page at 23/02/2018 04:25
+User Admin accessed the page at 23/02/2018 04:30
+User Admin rolled back the contents of the main page at: 23/02/2018 04:30. The new contents are:   I don't want to pay taxes.
+	
+  Build the wall
+User Admin rolled back the contents of the main page at: 23/02/2018 04:34. The new contents are:   
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+User Admin logged out at: 23/02/2018 04:34
+User Admin accessed the page at 23/02/2018 04:44
+User Admin rolled back the contents of the main page at: 23/02/2018 04:46. The new contents are:   
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+User Admin used to backup file to alter teh contents of the main page at: 23/02/2018 04:47. The new contents are:   
+  <h2>Early Life</h2>
+  <p>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality.</p>
+  <p>Donald Trump was born at the Jamaica Hospital Medical Center, Queens, New York City, the fourth of five children. He had three elder siblings—Maryanne, Fred Jr., and Elizabeth—as well as a younger brother named Robert. Trump grew up in Jamaica, Queens, and attended the Kew-Forest School from kindergarten through seventh grade, and at age 13, he enrolled in the New York Military Academy, a private boarding school.</p>
+  <p>Trump earned an economics degree from the Wharton School of the University of Pennsylvania. He took over running his family's real estate business in 1971, renamed it The Trump Organization, and expanded it to involve constructing and renovating skyscrapers, hotels, casinos, and golf courses.</p>
+  <h2>Later Life</h2>
+  <p>Trump has five children by three marriages, as well as nine grandchildren. His first two marriages ended in widely publicized divorces, and he is the second divorced American president, after Ronald Reagan.</p>
+  <p>In 1977, Trump married his first wife, Czech model Ivana Zelníčková, at the Marble Collegiate Church in Manhattan. They had three children: Donald Jr. (b. 1977), Ivanka (b. 1981), and Eric (b. 1984). The couple divorced in 1992, following Trump's affair with actress Marla Maples.</p>
+  <p>In October 1993, Maples gave birth to Trump's daughter, who was named Tiffany after high-end retailer Tiffany & Company. Maples and Trump were married two months later in December 1993, and they divorced in 1999.</p>
+  <p>In 2005, Trump married his third wife, Slovenian model Melania Knauss, at Bethesda-by-the-Sea Episcopal Church in Palm Beach, Florida. In 2006, Melania became a United States citizen and gave birth to a son, Barron. Melania became First Lady of the United States upon Trump's inauguration as president in January 2017.</p>
+  <p>Upon his inauguration as president, Trump delegated the management of his real estate business to his two adult sons, Eric and Don Jr. His daughter Ivanka resigned from The Trump Organization and moved to Washington, D.C. with her husband Jared Kushner. She serves as an assistant to the president, and he is a Senior Advisor in the White House.</p>
+  <h2>Wealth</h2>
+  <p>Trump said that he began his career with "a small loan of one million dollars" from his father. When Trump announced his candidacy for the presidency on June 16, 2015, he released a one-page financial summary that stated a net worth of $8,737,540,000. The following month, he filed a 92-page Federal Election Commission (FEC) financial disclosure form and declared his net worth was "in excess of ten billion dollars". In its 2017 billionaires' ranking, Forbes estimated Trump's net worth at $3.5 billion (544th in the world, 201st in the U.S.) making him one of the richest politicians in American history.</p>
+  <h2>Golf Courses & Aberdeenshire</h2>
+  <p>The Trump Organization operates many golf courses and resorts in the United States and around the world. According to Golfweek, Trump owns or manages about 18 golf courses. His personal financial disclosure with the Federal Elections Commission stated that his golf and resort revenue for the year 2015 was roughly $382 million, while his three European golf courses did not show a profit.</p>
+  <p>In 2006, Trump bought 1,400 acres (570 ha), including the Menie Estate in Balmedie, Aberdeenshire, Scotland, and created a golf resort there. Scottish supporters emphasized potential economic benefits, and opponents emphasized potential environmental harm to a Site of Special Scientific Interest (SSSI). In the wake of the 2008 recession, Trump greatly scaled back development of this property, and as of December 2016 Scottish officials were pushing for completion of the far larger development as originally approved.</p><br>
+  <p>Feel free to search for anything Trump-related! And if it doesn't exist then create it!</p>
+  <p>Use the menu at the top of the page navigate the site!</p><br>
+
+
+User Admin logged out at: 23/02/2018 04:47
+User Ivanka accessed the page at 23/02/2018 04:48
+User Admin accessed the page at 23/02/2018 04:52

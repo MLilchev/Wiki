@@ -1,0 +1,10 @@
+<h2>Edit article</h2><br>
+ <form action="/edit" method="post" id="edit" value= >
+	<input type="hidden" name="_method" value="put">
+	<textarea rows="20" cols="90" name="message"  >
+		<%= $myinfo %>
+	</textarea>
+	<input type="submit" value="Update">
+ </form>
+ 
+<p><a href="../reset">Reset</a></p>

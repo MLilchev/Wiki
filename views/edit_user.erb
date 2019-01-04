@@ -1,0 +1,5 @@
+<h2>Edit user:<%= @usr.username %></h2>
+<form action="/user/update/<%= @usr.username %>" method="put" id="edit">
+  New username <input type="text" name="n_username">
+  <input type="submit">
+</form>

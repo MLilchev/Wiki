@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<div class="MainContainer">          <!--Part of making the page scrollable-->
+<html>
+ <div class="ParallaxContainer">     <!--Part of making the page scrollable-->
+   <head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="This is my new Wiki app" />
+    <meta name="keywords" content="wiki, test app, blog" />
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <script src="/script.js"></script>
+  <title>My Wiki application</title>
+</head>
+  </div><!--ParallaxContainer-->
+
+<div class="ContentContainer">
+  <div class="Content">
+      <body>
+        <!--Sidebar-->
+<div class="sidebar" style="width:5%">
+Number of characters: <%= @characters %><br>
+Number of words: <%= @words %><br>
+  
+</div>
+      <div class="main_container" style="margin-left:5%">
+          <header>
+            <div class="page_title">
+            <h1>Donald Trump</h1>
+            </div> <!--page_title-->
+           
+            <div class="navbar">
+              <a href="/">Home |</a>
+              <a href="/about">About |</a>
+              <a href="/createaccount">Create Account |</a>
+                <a href="/edit">Edit |</a>
+                <a href="/map">Map |</a>
+                <a href="/gallery">Gallery |</a>
+                <a href="/video">Video |</a>  
+                <div class="navbar.login">         
+                       <% if $credentials %>
+                  <% if $credentials[0] != '' %>
+                    Logged in as <a href="/user/<%=$credentials[0]%>"><b><%=$credentials[0] %> |</b></a>
+                  <a href="/logout">Logout |</a>             
+                  <% if $credentials[0] == "Admin" %>
+                  <a href="/admincontrols">Admin Controls |</a>
+                  <a href="/rollback">Rollback |</a>
+                  <a href="/reset">Reset |</a>
+                  <a href="/backup">Backup |</a>
+                  <a href="/usebackup">Use Backup |</a>
+                  <a href="/admincreate">Create Account |</a>
+                  <% end %>
+                  <% else %>
+                  <a href="/login">Login </a>
+                <% end %>
+                  <% else %>
+                  <a href="/login">Login |</a>
+                </div>
+                  <% end %> <!--login-->
+                  </div> <!--login-->  
+             </div><!--navbar-->
+            </header>
+        <div class="view-content">
+          <%= yield %>            
+        </div><!--view_content-->
+      </div><!--main-->
+</body>
+        
+     </div><!--Content-->
+  </div> <!--ContentContainer-->
+</div><!--MainContainer-->
+
+
+
+
+
+
+<footer style="color: black; background-color: rgb( 227, 221, 219 );" >
+     
+	This website was created by <%= $creators %>. 2018
+</footer>

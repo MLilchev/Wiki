@@ -1,0 +1,31 @@
+
+<div class="users">
+	<div class="table_header">
+		<div class="table_cell">Username</div>
+		<div class="table_cell">Date Joined</div>
+		<div class="table_cell">Can Edit?</div>
+		<div class="table_cell">Privileges</div>
+		<div class="table_cell">Delete User</div>
+		<div class="table_cell">Edit User</div>
+	</div>
+
+	<% @list2.each do |liste| %>
+	<div class="user">
+		<div class="table_cell"><%= liste.username %></div>
+		<div class="table_cell"><%= liste.created_at %></div>
+		<div class="table_cell"><%= liste.edit %></div>
+		<form action="/user/<%= liste.username%>" method="post" id="edit">
+			<input type="hidden" name="_method" value="put">
+			<div class="table_cell"><input type="checkbox" name="edit"<%="checked" if liste.edit %>>
+				<input type="submit" value="Allow Edit?">
+			</div>
+			</form>
+			<% if liste.username != "Admin" %>
+	          <div class="table_cell"><a href="/user/edit/<%= liste.username %>">Edit User></a>
+	          <div class="table_cell"><a href="/user/delete/<%= liste.username %>">Delete User</a></div>		
+		<% end %>
+	</div>
+
+	<% end %>
+
+</div>
