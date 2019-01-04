@@ -1,4 +1,5 @@
 # wikiwad
+In collaboration with Tamarah Harvey
 My first university project made using Ruby and Sinatra.
 
 In order to run our wiki application on Windows 10 you will require ruby 2.4.1. which can be downloaded from https://rubyinstaller.org. Additional gems may be required to be installed which can be done through the following console commands:
